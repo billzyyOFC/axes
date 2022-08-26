@@ -24,7 +24,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "billzyyOFC BOT" //namabot kalian
+global.botname = "billzyy BOTZ" //namabot kalian
 global.ownername= "billzyyOFC " //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/" //bebas asal jan hapus
@@ -36,8 +36,8 @@ global.premium = ['6283807661974'] //premium user
 global.owner = ["6283807661974","6283807661974"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6283807661974" // nomor wa kalian
 global.ownernomerr = "+6283807661974" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.thumbnail = "./image/1661515310027.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/null-20220826-WA0003.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.packname = '© billzyyOFC BOT' //sticker wm ubah
 global.author = 'Di Buat Oleh ikybot' //sticker wm ganti nama kalian
